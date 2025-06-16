@@ -98,19 +98,19 @@ function App() {
           {/* Price Highlight */}
           <div className="text-center mb-8">
             <p className="text-xl text-gray-700 mb-4">
-              Sim, você foi sorteada para receber acesso imediato ao nosso protocolo de jejum com <strong>R$ 12,00 de desconto</strong>
+              Sim, você foi sorteada para receber acesso imediato ao nosso protocolo de jejum com <strong>R$ 100,00 de desconto</strong>
             </p>
             
             <div className="bg-gray-800 text-white rounded-lg p-6 inline-block">
               <div className="flex items-center justify-center gap-4">
                 <div className="text-center">
                   <p className="text-sm opacity-90">De</p>
-                  <p className="text-2xl line-through">R$ 39,00</p>
+                  <p className="text-2xl line-through">R$ 100,00</p>
                 </div>
                 <div className="text-4xl font-bold">→</div>
                 <div className="text-center">
                   <p className="text-sm opacity-90">Por apenas</p>
-                  <p className="text-4xl font-bold">R$ 27,00</p>
+                  <p className="text-4xl font-bold">R$ 21,00</p>
                 </div>
               </div>
             </div>
@@ -176,7 +176,7 @@ function App() {
                 <Zap className="w-5 h-5" />
                 <span className="font-bold text-lg">Tudo isso por apenas:</span>
               </div>
-              <div className="text-3xl font-bold mb-2">R$ 27,00 à vista</div>
+              <div className="text-3xl font-bold mb-2">R$ 21,00 à vista</div>
               <div className="text-lg">ou 2x de R$ 13,50 no cartão</div>
             </div>
           </div>
